@@ -1,0 +1,6 @@
+{
+  "name": "Vana Veda | Holistic Wellness & Nature Retreat",
+  "description": "A luxury naturopathy, Ayurveda, yoga, and holistic healing sanctuary nestled in serene nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
